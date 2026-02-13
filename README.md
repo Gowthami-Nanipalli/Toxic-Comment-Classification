@@ -1,4 +1,5 @@
 🛡️ Toxic Comment Classification using NLP
+
 📌 Project Overview
 This project focuses on detecting and classifying toxic comments using Natural Language Processing (NLP) and Deep Learning techniques. The model identifies different categories of toxicity such as abusive, offensive, threat, and identity-based hate comments.
 The system is designed to help online platforms automatically filter harmful content and maintain healthy digital communication.
