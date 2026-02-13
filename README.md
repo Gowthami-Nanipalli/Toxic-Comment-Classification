@@ -16,6 +16,9 @@ Online platforms face challenges in moderating large volumes of user-generated c
   - threat
   - insult
   - identity_hate
+📌 Note: Due to GitHub file size limitations, the full dataset is not uploaded in this repository.
+You can download the dataset from:
+https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge
 ---
 🧠 Technologies Used
 - Python
