@@ -7,9 +7,11 @@ An NLP model that can predict the probability for each type of toxicity of comme
 <h5>📌 Project Overview
 This project focuses on detecting and classifying toxic comments using Natural Language Processing (NLP) and Deep Learning techniques. The model identifies different categories of toxicity such as abusive, offensive, threat, and identity-based hate comments.
 The system is designed to help online platforms automatically filter harmful content and maintain healthy digital communication.
+  
 ---
 🎯 Problem Statement
 Online platforms face challenges in moderating large volumes of user-generated content. Manual moderation is inefficient and time-consuming. This project builds an automated classification system to detect toxic comments accurately using deep learning models.</h5>
+
 ---
 📊 Dataset
 - Dataset: Kaggle Toxic Comment Classification Challenge
